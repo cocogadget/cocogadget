@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cocogadget
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning (re-learning Ruby on Rails), Python, JavaScript
-- 💞️ I’m looking to collaborate on Data Analytic project beginner friendly please
+- 💞️ I’m looking to collaborate on Data Analytic projects (beginner friendly please)
 - 📫 How to reach me smithjernan@gmail.com
 
 <!---
